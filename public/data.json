@@ -1,11 +1,5 @@
 {
-    "name": "test",
-    "description": "test",
-    "image": "test",
-    "attributes": [
-        {
-            "trait_type": "test",
-            "value": "test"
-        }
-    ]
+    "name": "mamad1",
+    "description": "mamad1",
+    "value": "mamad1"
 }
